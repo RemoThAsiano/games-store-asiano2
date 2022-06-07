@@ -1,0 +1,9 @@
+.detail {
+    text-decoration: none;
+    color:black;
+}
+
+.center {
+    display: flex;
+    text-align: center;
+}

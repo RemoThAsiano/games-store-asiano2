@@ -1,0 +1,15 @@
+.center {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.padding-top {
+    padding-top: 10px;
+}
+
+.checkout-form-input {
+    padding: 10px;
+}

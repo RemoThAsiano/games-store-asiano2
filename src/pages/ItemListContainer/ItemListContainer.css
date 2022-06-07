@@ -1,0 +1,9 @@
+.item-list-container {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 10px;
+}
+/* .item-list-container h3
+} */
+
